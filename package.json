@@ -29,14 +29,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AZANIR/Playwright_Cucumber_Allure.git"
+    "url": "git+https://github.com/ENEMBI/playwright_cucumber.git"
   },
   "author": "Leonid Maievskiy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AZANIR/Playwright_Cucumber_Allure/issues"
+    "url": "https://github.com/ENEMBI/playwright_cucumber/issues"
   },
-  "homepage": "https://github.com/AZANIR/Playwright_Cucumber_Allure#readme",
+  "homepage": "https://github.com/ENEMBI/playwright_cucumber#readme",
   "dependencies": {
     "@cucumber/cucumber": "^9.2.0",
     "@cucumber/html-formatter": "20.4.0",
